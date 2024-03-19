@@ -1,0 +1,32 @@
+/* UrlResponseDetails.css */
+.url-details {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+}
+
+.url-details-title {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.url-detail {
+    margin-bottom: 10px;
+    line-height: 1.6;
+}
+
+.url-detail strong {
+    color: #000;
+}
+
+.url-link {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.url-link:hover {
+    text-decoration: underline;
+}
